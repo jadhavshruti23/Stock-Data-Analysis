@@ -1,0 +1,14 @@
+Feature,Importance,Feature Name
+return_lag_5,0.3068871224755872,Return 5 Days Ago
+return_lag_1,0.19223245947187248,Return 1 Day Ago
+volume_lag_1,0.12921571245133584,Trading Volume 1 Day Ago
+volume_ma_20,0.0715858281111073,20-Day Average Volume
+close_lag_1,0.042240469706523884,Closing Price 1 Day Ago
+ma_50,0.04135547572332458,50-Day Moving Average
+volatility_50,0.0412020615126422,50-Day Volatility
+volatility_20,0.03877296918174225,20-Day Volatility
+ma_200,0.03807646600294414,200-Day Moving Average
+close_lag_10,0.03232543012573373,Closing Price 10 Days Ago
+close_lag_2,0.029815179017785416,Closing Price 2 Days Ago
+close_lag_5,0.022205121487622482,Closing Price 5 Days Ago
+ma_20,0.014085704731778543,20-Day Moving Average
